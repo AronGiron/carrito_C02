@@ -48,7 +48,7 @@ software | Luis Vega |
 🔗Enlaces relevantes
 -
 - [Carpeta de Drive](https://drive.google.com/...)
-- 
+  
 - [Circuito en EasyEDA](https://easyeda.com/...)
-- 
+  
 - [Presentación en Slides](https://...)
