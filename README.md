@@ -1,14 +1,19 @@
 # Proyecto: Carrito analizador de Infraestructura de una mina y detector de CO2
 ##
 🎯Objetivo
+-
 Diseñar e implementar un carrito autónomo capaz de monitorear la integridad estructural de túneles mineros y detectar niveles peligrosos de dióxido de carbono (CO₂) en tiempo real.
 ##
 👥Integrantes
 -
-Rodríguez Tapia Gerardo Gabriel 
+Rodríguez Tapia Gerardo Gabriel
+
 Chagua Tasaico Alexis Magno
+
 Santibañez Pastor Jose Alexander
-Vicente Balcazar Stheveen Slittle 
+
+Vicente Balcazar Stheveen Slittle
+
 Girón Aguilar Aron Neil
 
 Nombre Apellido Rol: [Hardware / Software / Documentación]
@@ -42,8 +47,8 @@ software | Luis Vega |
 ##
 🔗Enlaces relevantes
 -
--[Carpeta de Drive](https://drive.google.
--
--[Circuito en EasyEDA ](https://easyeda.
--
--[Presentación en Slides ](
+- [Carpeta de Drive](https://drive.google.com/...)
+- 
+- [Circuito en EasyEDA](https://easyeda.com/...)
+- 
+- [Presentación en Slides](https://...)
