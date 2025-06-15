@@ -1,15 +1,22 @@
-# Proyecto: [Nombre del proyecto]
+# Proyecto: Carrito analizador de Infraestructura de una mina y detector de CO2
 ##
 🎯Objetivo
-Describir brevemente qué problema resuelve o qué hace el proyecto.
+Diseñar e implementar un carrito autónomo capaz de monitorear la integridad estructural de túneles mineros y detectar niveles peligrosos de dióxido de carbono (CO₂) en tiempo real.
 ##
 👥Integrantes
 -
+Rodríguez Tapia Gerardo Gabriel 
+Chagua Tasaico Alexis Magno
+Santibañez Pastor Jose Alexander
+Vicente Balcazar Stheveen Slittle 
+Girón Aguilar Aron Neil
+
 Nombre Apellido Rol: [Hardware / Software / Documentación]
--
+
 Nombre Apellido Rol: [Diseño / Pruebas / Simulación]
--
+
 Nombre Apellido Rol: [Redacción / Ensamblado / etc.]
+
 ##
 📁Estructura del proyecto
 -
