@@ -21,11 +21,15 @@ Nombre Apellido Rol: [Redacción / Ensamblado / etc.]
 📁Estructura del proyecto
 -
 [`docs/`](./docs) → Documentación del proyecto: informes, presentaciones, cronogramas.
+
 [`codigo/`](./codigo) → Código fuente en Arduino y Python.
+
 [`esquematicos/`](./esquematicos) → Circuitos en PDF, EasyEDA, Fritzing.
+
 [`pruebas/`](./pruebas) → Resultados y fotos del circuito.
+
 [`recursos/`](./recursos) → Datasheets y enlaces técnicos.
--
+
 -`README.md`: este documento
 ##
 📅Avances semanales
