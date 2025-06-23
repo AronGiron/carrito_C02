@@ -6,15 +6,15 @@ Diseñar e implementar un carrito autónomo capaz de monitorear la integridad es
 ##
 👥Integrantes
 -
-Rodríguez Tapia Gerardo Gabriel [Ensamble]
+Rodríguez Tapia Gerardo Gabriel
 
-Chagua Tasaico Alexis Magno [Simulación]
+Chagua Tasaico Alexis Magno
 
-Santibañez Pastor Jose Alexander [Diseño]
+Santibañez Pastor Jose Alexander
 
-Vicente Balcazar Stheveen Slittle [Software]
+Vicente Balcazar Stheveen Slittle
 
-Girón Aguilar Aron Neil [Documentación]
+Girón Aguilar Aron Neil
 
 ##
 📁Estructura del proyecto
@@ -32,6 +32,7 @@ Girón Aguilar Aron Neil [Documentación]
 ##
 📅Avances semanales
 -
+| 13| Resultados previos (Tablas,Imagenes,Gráficos)
 ##
 🔗Enlaces relevantes
 -
