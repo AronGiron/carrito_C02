@@ -32,7 +32,9 @@ Girón Aguilar Aron Neil
 ##
 📅Avances semanales
 -
-| 13| Resultados previos (Tablas, Imagenes, Gráficos)
+| Semana       | Actividad realizada          |
+|--------------|-----------------|
+| 13          | Resultados previos (Tablas, Imagenes, Gráficos)            |
 ##
 🔗Enlaces relevantes
 -
