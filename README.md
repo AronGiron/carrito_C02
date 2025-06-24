@@ -32,7 +32,7 @@ Girón Aguilar Aron Neil
 ##
 📅Avances semanales
 -
-| 13| Resultados previos (Tablas,Imagenes,Gráficos)
+| 13| Resultados previos (Tablas, Imagenes, Gráficos)
 ##
 🔗Enlaces relevantes
 -
