@@ -24,3 +24,4 @@
 
 ### 🐞 Correcciones
 - Actualización del archivo README.md con información más clara y estructurada.
+- Cambio de formato de los esquemáticos para mejorar la compatibilidad.
