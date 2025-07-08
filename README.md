@@ -35,6 +35,7 @@ Girón Aguilar Aron Neil
 | Semana       | Actividad realizada          |
 |--------------|-----------------|
 | 13          | Resultados previos (Tablas, Imagenes, Gráficos)            |
+| 15          | Resultados finales del proyecto            |
 ##
 🔗Enlaces relevantes
 -
