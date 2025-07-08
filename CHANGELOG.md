@@ -15,3 +15,12 @@
 ### 🐞 Correcciones
 - Renombrados varios archivos en la carpeta `codigo` para mejorar la claridad y coherencia del proyecto.
 - Correcciones en el formato y contenido del informe.
+
+## [V2.0] - 2025-07-07
+### 🔧 Cambios agregados
+- Nueva versión del informe y presentación con inclusión de tablas y resultados detallados en la carpeta `docs`.
+- Versión final de los códigos comentados para facilitar la comprensión.
+- Incorporación de nuevas imágenes relevantes al contenido del informe.
+
+### 🐞 Correcciones
+- Actualización del archivo README.md con información más clara y estructurada.
